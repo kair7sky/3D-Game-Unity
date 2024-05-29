@@ -66,8 +66,3 @@ Contributions to the Mini Golf 2D game are welcome. If you have suggestions or w
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-
-For any inquiries or support, please contact the developer at [developer@example.com](mailto:developer@example.com).
-
-Enjoy playing Mini Golf 2D! Have fun and try to beat your high score!
